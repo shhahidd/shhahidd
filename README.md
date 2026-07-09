@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shhahidd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=shhahidd&theme=monokai&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shhahidd&theme=monokai&no-frame=true&no-bg=true&margin-w=4)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
